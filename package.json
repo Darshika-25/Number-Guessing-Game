@@ -1,0 +1,21 @@
+{
+  "name": "@darshika.dev/number_guessing_game",
+  "version": "1.0.2",
+  "description": "This is a Cli based number guessing game.",
+  "main": "game.js",
+  "type": "module",
+  "bin": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darshika",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
